@@ -2,7 +2,7 @@
 
 Created by: Nyle Alliss
 
-Task Score:			100%                                        Created:        20/03/2020
+Task Score:		100%                                        Created:        20/03/2020
 Correctness:		100%                                        Last Edited:    01/04/2021
 Performance:		100%
 Time Complexity:	O(N*log(N)) or O(N)
