@@ -2,7 +2,7 @@
 
 Created by: Nyle Alliss
 
-Task Score:			 81%                                        Created:        18/03/2020
+Task Score:		081%                                        Created:        18/03/2020
 Correctness:		100%                                        Last Edited:    01/04/2021
 Performance:		 62%
 Time Complexity:	O(N ** 2)
