@@ -3,5 +3,5 @@ My C++ solutions to the Codillity lesson problems
 
 First Header  | Second Header
 ------------- | --------------------
-Content Cell  |   
-Content Cell  | Content Cell
+**Lesson 1: Iterations**  | 
+1.1)   | [my directory](test_dir)
