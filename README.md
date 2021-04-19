@@ -8,7 +8,8 @@ First Header  | Second Header
 **Lesson 1: Iterations**  | 
 1.1) [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/).[cpp](srs/1.1.2.BinaryGap.cpp)  | ![alt text][D-painless] ![alt text][TS-100] ![alt text][C-100] ![alt text][P-N/A] ![alt text][TC-N/A]
 **Lesson 2: Arrays**  | 
-3.1)
+2.1) [CyclicRotation](https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/).[cpp](srs/2.1.1.CyclicRotation.cpp)  | ![alt text][D-painless] ![alt text][TS-100] ![alt text][C-100] ![alt text][P-N/A] ![alt text][TC-N/A]
+2.2) [oddOccurrencesInArray](https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/).[cpp](srs/2.2.1.OddOccurencesInArray.cpp)  | ![alt text][D-painless] ![alt text][TS-100] ![alt text][C-100] ![alt text][P-N/A] ![alt text][TC-N/A]
 **Lesson 3: Time Complexity**  | 
 **Lesson 4: Counting Elements**  | 
 **Lesson 5: Prefex Sums**  | 
