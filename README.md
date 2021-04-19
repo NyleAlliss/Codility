@@ -20,9 +20,15 @@ First Header  | Second Header
 4.3) [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/).[cpp](srs/3.3.2.TapeEquilibrium.cpp)  | ![][D-respectable] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N) or O(N*log(N))]
 4.4) [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/).[cpp](srs/3.3.2.TapeEquilibrium.cpp)  | ![][D-respectable] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N) or O(N*log(N))]
 **Lesson 5: Prefex Sums**  | 
-
+4.1) [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/).[cpp](srs/4.1.1.FrogRiverOne.cpp)  | ![][D-painless] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N)]
+4.2) [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/).[cpp](srs/4.2.2.MaxCounters.cpp)  | ![][D-painless] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N+M)]
+4.3) [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/).[cpp](srs/4.3.1.MissingInteger.cpp)  | ![][D-respectable] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N) or O(N*log(N))]
+4.4) [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/).[cpp](srs/4.3.1.PermCheck.cpp)  | ![][D-respectable] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N) or O(N*log(N))]
 **Lesson 6: Sorting**  | 
-
+5.1) [CountDiv](https://app.codility.com/programmers/lessons/5-prefix_sums/count_div/).[cpp](srs/5.1.2.CountDiv.cpp)  | ![][D-respectable] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(1)]
+5.2) [GenomicRangeQuery](https://app.codility.com/programmers/lessons/5-prefix_sums/genomic_range_query/).[cpp](srs/5.2.1.GenomicRangeQuery.cpp)  | ![][D-respectable] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N+M)]
+5.3) [MinAvgTwoSlice](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/).[cpp](srs/5.3.2.MinAvgTwoSlice.cpp)  | ![][D-respectable] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N)]
+5.4) [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/).[cpp](srs/5.3.1.PassingCars.cpp)  | ![][D-painless] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N)]
 **Lesson 7: Stacks and Queues**  | 
 
 [D-painless]: https://img.shields.io/badge/D-Painless-81c1e1
