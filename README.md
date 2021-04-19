@@ -15,10 +15,10 @@ First Header  | Second Header
 3.2) [PermMissingElem](https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/).[cpp](srs/3.2.2.PermMissingElem.cpp)  | ![][D-painless] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N) or O(N*log(N))]
 3.3) [TapeEquilibrium](https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/).[cpp](srs/3.3.2.TapeEquilibrium.cpp)  | ![][D-painless] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N)]
 **Lesson 4: Counting Elements**  | 
-4.1) [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/).[cpp](srs/3.1.1.FrogJmp.cpp)  | ![][D-painless] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(1)]
-4.2) [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/).[cpp](srs/3.2.2.PermMissingElem.cpp)  | ![][D-painless] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N) or O(N*log(N))]
-4.3) [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/).[cpp](srs/3.3.2.TapeEquilibrium.cpp)  | ![][D-painless] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N) or O(N*log(N))]
-4.4) [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/).[cpp](srs/3.3.2.TapeEquilibrium.cpp)  | ![][D-painless] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N) or O(N*log(N))]
+4.1) [FrogRiverOne](https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/).[cpp](srs/3.1.1.FrogJmp.cpp)  | ![][D-painless] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N)]
+4.2) [MaxCounters](https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/).[cpp](srs/3.2.2.PermMissingElem.cpp)  | ![][D-painless] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N+M)]
+4.3) [MissingInteger](https://app.codility.com/programmers/lessons/4-counting_elements/missing_integer/).[cpp](srs/3.3.2.TapeEquilibrium.cpp)  | ![][D-respectable] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N) or O(N*log(N))]
+4.4) [PermCheck](https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/).[cpp](srs/3.3.2.TapeEquilibrium.cpp)  | ![][D-respectable] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N) or O(N*log(N))]
 **Lesson 5: Prefex Sums**  | 
 
 **Lesson 6: Sorting**  | 
