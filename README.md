@@ -1,9 +1,11 @@
 # Codility
-My C++ solutions to the Codillity lesson problems
+My C++ solutions to the Codillity lesson problems. All the solution files are stored within the 'srs' folder. All files are named in the convention '1.2.3.ProblemTitle.cpp', where in this example 1 indicate the chapter number, 2 the problem number and 3 the attempt number. The for problems with multiple attempts the highest scoring attempt and/or the most easily read code will be stored as the highest attempt number, and the results from this file are stored in the table below.
 
 **Details Legend:** D = *Difficulty*; TS = *Task Score*; C = *Correctness*; P = *Performance*; TC = *Time Complexity*
  
-First Header  | Second Header
+ Links to the problems are accessible by clicking on the problem title in the 'Problem and Solutions' collumn, clicking on 'cpp' after a problem name will take you directly to the problem solution.
+ 
+Problem and Solution  | Second Header
 ------------- | --------------------
 **Lesson 1: Iterations**  | 
 1.1) [BinaryGap](https://app.codility.com/programmers/lessons/1-iterations/binary_gap/).[cpp](srs/1.1.2.BinaryGap.cpp)  | ![][D-painless] ![][TS-100] ![][C-100] ![][P-N/A] ![][TC-N/A]
