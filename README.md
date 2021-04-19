@@ -25,10 +25,10 @@ First Header  | Second Header
 5.3) [MinAvgTwoSlice](https://app.codility.com/programmers/lessons/5-prefix_sums/min_avg_two_slice/).[cpp](srs/5.3.2.MinAvgTwoSlice.cpp)  | ![][D-respectable] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N)]
 5.4) [PassingCars](https://app.codility.com/programmers/lessons/5-prefix_sums/passing_cars/).[cpp](srs/5.3.1.PassingCars.cpp)  | ![][D-painless] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N)]
 **Lesson 6: Sorting**  | 
-6.1) [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/).[cpp](srs/6.1.1.Distinct.cpp)  | ![][D-respectable] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(1)]
-6.2) [MaxProductOfThree](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/).[cpp](srs/6.2.1.MaxProductOfThree.cpp)  | ![][D-respectable] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N+M)]
-6.3) [NumberOfDiscIntersections](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/).[cpp](srs/6.3.2.NumberOfDiscIntersections.cpp)  | ![][D-respectable] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N)]
-6.4) [Triangle](https://app.codility.com/programmers/lessons/6-sorting/triangle/).[cpp](srs/6.3.1.Triangle.cpp)  | ![][D-painless] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N)]
+6.1) [Distinct](https://app.codility.com/programmers/lessons/6-sorting/distinct/).[cpp](srs/6.1.1.Distinct.cpp)  | ![][D-respectable] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(N) or O(N*log(N))]
+6.2) [MaxProductOfThree](https://app.codility.com/programmers/lessons/6-sorting/max_product_of_three/).[cpp](srs/6.2.1.MaxProductOfThree.cpp)  | ![][D-respectable] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(Nlog*(N))]
+6.3) [NumberOfDiscIntersections](https://app.codility.com/programmers/lessons/6-sorting/number_of_disc_intersections/).[cpp](srs/6.3.2.NumberOfDiscIntersections.cpp)  | ![][D-respectable] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(Nlog*(N))]
+6.4) [Triangle](https://app.codility.com/programmers/lessons/6-sorting/triangle/).[cpp](srs/6.3.1.Triangle.cpp)  | ![][D-painless] ![][TS-100] ![][C-100] ![][P-100] ![][TC-O(Nlog*(N))]
 **Lesson 7: Stacks and Queues**  | 
 
 [D-painless]: https://img.shields.io/badge/D-Painless-81c1e1
